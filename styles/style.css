@@ -1,0 +1,153 @@
+
+.open-sans-normal{
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px 160px;
+}
+h3{
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 32px;
+}
+.btn-1{
+    color: #006a50;
+    padding: 15px 15px;
+    width: 116px;
+    height: 52px;
+    border: 2px solid #006a50;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+/* Banner section styles*/
+.banner-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 100px 80px;
+    background-color: #C6E4D6;
+    width: 1280px;
+    height: 560px;
+    align-items: center;
+}
+.banner-heading{
+    color: #0e0e0e;
+    font-size: 24px;
+    font-weight: 200;
+}
+.banner-discription{
+    color: #0e0e0e;
+    font-size: 56px;
+    font-weight: bold;
+    width: 622px;
+    height: 201px;
+    margin-top: 16px;
+}
+.banner-button{
+    padding: 17px;
+    background-color: #006a50;
+    color: white;
+    text-decoration: none;
+
+}
+/*vision styles*/
+.vision-title{
+    font-weight: bold;
+    font-size: 40px;
+    width: 1280px;
+    height: 48px;
+    margin: 0 auto;
+    padding: 100px 80px;
+}
+.vision-discription{
+    font-weight: 100;
+    font-size: 16px;
+    width: 1280px;
+    height: 48px;
+    margin: 16px auto;
+}
+.cards-container{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+.card-1{
+    background-color: #81B4FC;
+    width: 410px;
+    height: 325px;
+}
+.card-2{
+    background-color: #C6E4D6;
+    width: 410px;
+    height: 325px;
+}
+.card-3{
+    background-color: #FFF7DF;
+    width: 410px;
+    height: 325px;
+}
+img{
+    padding: 20px;
+}
+h3{
+    width: 360px;
+    height: 24px;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+p{
+    width: 360px;
+    height: 48px;
+    font-weight: 100;
+    font-size: 16px;
+    padding: 10px; 
+}
+.blue{
+    background-color: #5490F5;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: 5px solid #5490F5;
+    cursor: pointer;
+}
+.Green{
+    background-color: #006a50;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: 5px solid #006a50;
+    cursor: pointer;
+}
+.yellow{
+    background-color: #FFC239;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: 5px solid #FFC239 ;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
